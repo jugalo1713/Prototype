@@ -1,7 +1,5 @@
 # Prototype
 
-Singleton is a creational design pattern, which ensures that only one object of its kind exists and provides a single point of access to it for any other code.
-
 The Prototype pattern delegates the cloning process to the actual objects that are being cloned. The pattern declares a common interface for all objects that support cloning. This interface lets you clone an object without coupling your code to the class of that object. Usually, such an interface contains just a single clone method.
 
 ## Benefits of Prototype Pattern
